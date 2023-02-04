@@ -1,0 +1,2 @@
+# Pacific-Rim-The-Mobile-Game-Remastered
+THE KAIJU BEATING AWESOMENESS IS BACK, STRONG AS EVER!

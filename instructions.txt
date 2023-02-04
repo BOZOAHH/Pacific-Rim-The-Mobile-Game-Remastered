@@ -1,0 +1,36 @@
+1. Download "VMOS.txt" From Github
+2. Copy The Link Inside The Txt File And Paste it in Google
+3. Download The File
+4. Download The VMOS App
+5. Click Agree
+6. Click The Blue Rectangle
+7. Click On Add Virtual Machine
+8. Select "Android5.1 Geeks" 
+9. Download It
+10. Click Add
+11. Click ignore And Start
+12. It Should say Rom Installment
+13. It should say booting up
+14. after it is booted, download the file "PRTMGR.apk"
+15. click on "Transit"
+16. Click On I want to import
+17. install the app (Pacific Rim The Game)
+18. after clicking on i want to import, select the pacific rim app
+19. it should install
+20. download the file "LINKTODATAINSIDE.TXT" 
+21. install the file
+22. open vmos and boot it
+23. click on transit again
+24. Click On The Last Option On The right
+25. click the downloads folder
+26. Select "com.jumpgames.pacificrim.zip" 
+27. After it is imported, Download A File Manager From the play store and import it to vmos
+28. open the file manager
+29. click on main storage
+30. then click on the folder "VMOSfiletransferstation"
+31. View The Zip File Of "com.jumpgames.pacificrim"
+32. Copy the folder "com.jumpgames.pacificrim" inside the zip file
+33.Go To the "Android" Folder
+34.Make A New Folder "obb"
+35. Paste "com.jumpgames.pacificrim" inside of the "obb" folder
+36. Exit The File Manager in vmos and click the file in vmos

@@ -1,0 +1,6 @@
+1. Download The App
+2. Download "LINKTODATAINSIDE.txt" From Github
+3. Copy The Link Inside And Paste It Into Google
+4. Download The Zip File
+5.After Downloading Open The Zip
+6. Copy The Folder "com.jumpgames.pacificrim" to /storage/emulated/0/Android/obb

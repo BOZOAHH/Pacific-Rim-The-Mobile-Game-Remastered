@@ -1,0 +1,2 @@
+1. Download The App
+2. Copy The "com.jumpgames.pacificrim" Folder To /storage/emulated/0/Android/obb
